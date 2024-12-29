@@ -1,0 +1,11 @@
+
+ Size of Array (n)|  Worst Case (s)|        Average Case (s)|      
+
+ 100                 ( 2.15 times 10^{6})   ( 1.8 times 10^{6} )  
+ 150                 ( 2.12 times 10^{6})   ( 2.35 times 10^{6}) 
+ 200                 ( 2.2 times 10^{6} )   ( 2.75 times 10^{6}) 
+ 250                 ( 2.5 times 10^{6} )   ( 2.9 times 10^{6} )  
+ 300                 ( 2.9 times 10^{6} )   ( 3.55 times 10^{6}) 
+ 350                 ( 3.3 times 10^{6} )   ( 3.65 times 10^{6}) 
+ 400                 ( 3.7 times 10^{6} )   ( 4.0 times 10^{6} )  
+ 500                 ( 4.2 times 10^{6} )   ( 4.55 times 10^{6}) 
